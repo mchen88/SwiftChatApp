@@ -15,7 +15,7 @@ A beginners swift project to create a real time chat application in Swift 5 usin
 - User Profile
 - Dark Mode Support
 
-Take a look at the free playlist on YouTube for a step by step guide how to build this project!
+This project was done by following YouTuber iOS Academy's videos. Big thanks!
 
 ## Set Up
 
